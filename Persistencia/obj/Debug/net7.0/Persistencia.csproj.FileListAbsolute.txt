@@ -1,0 +1,15 @@
+C:\Users\AdminAp-044\Desktop\JardineraFiltroFinal\Persistencia\bin\Debug\net7.0\Persistencia.deps.json
+C:\Users\AdminAp-044\Desktop\JardineraFiltroFinal\Persistencia\bin\Debug\net7.0\Persistencia.dll
+C:\Users\AdminAp-044\Desktop\JardineraFiltroFinal\Persistencia\bin\Debug\net7.0\Persistencia.pdb
+C:\Users\AdminAp-044\Desktop\JardineraFiltroFinal\Persistencia\bin\Debug\net7.0\Dominio.dll
+C:\Users\AdminAp-044\Desktop\JardineraFiltroFinal\Persistencia\bin\Debug\net7.0\Dominio.pdb
+C:\Users\AdminAp-044\Desktop\JardineraFiltroFinal\Persistencia\obj\Debug\net7.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\AdminAp-044\Desktop\JardineraFiltroFinal\Persistencia\obj\Debug\net7.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminAp-044\Desktop\JardineraFiltroFinal\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\AdminAp-044\Desktop\JardineraFiltroFinal\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfo.cs
+C:\Users\AdminAp-044\Desktop\JardineraFiltroFinal\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\AdminAp-044\Desktop\JardineraFiltroFinal\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CopyComplete
+C:\Users\AdminAp-044\Desktop\JardineraFiltroFinal\Persistencia\obj\Debug\net7.0\Persistencia.dll
+C:\Users\AdminAp-044\Desktop\JardineraFiltroFinal\Persistencia\obj\Debug\net7.0\refint\Persistencia.dll
+C:\Users\AdminAp-044\Desktop\JardineraFiltroFinal\Persistencia\obj\Debug\net7.0\Persistencia.pdb
+C:\Users\AdminAp-044\Desktop\JardineraFiltroFinal\Persistencia\obj\Debug\net7.0\ref\Persistencia.dll
